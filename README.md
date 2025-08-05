@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nx
+## 👋 Hi, I'm mrnx2004
 
 - 🎯 Java 后端工程师 |  | 思维探索者
 - 🚀 技术栈：Java, Spring Boot, Python, GPT 应用, AI Prompt Engineering
